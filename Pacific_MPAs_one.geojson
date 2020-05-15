@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Pacific_MPAs_one",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 4.0, "NAME_E": "Endeavour Hydrothermal Vents Marine Protected Area", "NOM_F": "Zone de protection marine du champ hydrothermal Endeavour", "ZONE_E": "N\/A", "ZONE_F": "S\/O", "URL_E": "https:\/\/www.dfo-mpo.gc.ca\/oceans\/mpa-zpm\/endeavour\/index-eng.html", "URL_F": "https:\/\/www.dfo-mpo.gc.ca\/oceans\/mpa-zpm\/endeavour\/index-fra.html", "REGULATION": "http:\/\/laws-lois.justice.gc.ca\/eng\/regulations\/SOR-2003-87\/", "REGLEMENT": "http:\/\/laws-lois.justice.gc.ca\/fra\/reglements\/DORS-2003-87\/", "KM2": 97.07, "Shape_Leng": 40858.308299900003, "Shape_Area": 97067181.179900005 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2384010.4483, 1461214.759700002148747 ], [ -2390653.4517, 1464779.762800002470613 ], [ -2384540.2104, 1476151.032200001180172 ], [ -2377933.549599999562, 1472606.74479999952 ], [ -2384010.4483, 1461214.759700002148747 ] ] ] } }
+]
+}
